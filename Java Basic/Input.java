@@ -1,6 +1,3 @@
-/* Enter to two integer value from keyboard and display total */ 
-
-
 import java.util.Scanner;
 
 public class Input{
@@ -27,10 +24,5 @@ public class Input{
 
 
     }
-
-
-
-
-
 
 }

@@ -1,8 +1,8 @@
-import java.util.Scanner;
+import java.io.*;
 
 public class Demo {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         int number;
 
@@ -10,12 +10,12 @@ public class Demo {
 
         // boolean result = eon.findEvenOrOdd(8);
 
-        Scanner input = new Scanner(System.in);
+        InputStreamReader isr = new InputStreamReader(System.in);
+
+        BufferedReader bf = new BufferedReader(isr);
 
         System.out.print("Enter the number :");
-        number = input.nextInt();
-
-        input.close();
+        number = Integer.parseInt(bf.readLine());
 
         if (eon.findEvenOrOdd(number)) { // if(result == true)
 

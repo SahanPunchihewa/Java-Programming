@@ -1,0 +1,8 @@
+Exercise 1
+
+
+a) Create a class called Student. Student has a name, ditno and an address. Use
+appropriate data types also.
+b) Create another class called Test, create two students objects from students class, and
+assign different values to the attributes.
+c) Display the values.

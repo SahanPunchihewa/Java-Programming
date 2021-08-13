@@ -1,17 +1,17 @@
 
-public class Person {
-	
-	private String name;
+public class Person { // Person class
+	 
+	private String name; // Attributes
 	private String address;
 	
 	
-	public Person() {
+	public Person() { // Default constructor
 		
 		name = null;
 		address = null;
 	}
 	
-	public Person(String name, String address) {
+	public Person(String name, String address) { // Overload constructor
 		
 		this.name = name;
 		this.address = address;
@@ -29,7 +29,7 @@ public class Person {
 		this.address = address;
 	}*/
 	
-	public void showDetails() {
+	public void showDetails() { // Dispaly Details
 		
 		System.out.println("The Person Name :" +this.name);
 		System.out.println("The Person Address :" +this.address);

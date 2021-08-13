@@ -1,0 +1,6 @@
+Exercise 2
+
+
+d) Modify the previously written Student class as follows:
+a) Add a constructor to initialize all three variables.
+b) Then create objects using the above constructor

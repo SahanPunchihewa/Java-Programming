@@ -1,0 +1,9 @@
+Exercise 5
+
+
+a) Write a class called Person.
+b) A person has name and address as their attribute.
+c) Also, person class has a method call showDetails() which shows the name and the
+address of a person.
+d) Create an object of Person class inside InheritanceDemo class and call the
+showDetails() method

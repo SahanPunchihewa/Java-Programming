@@ -1,0 +1,10 @@
+Exercise 3
+
+
+a) Modify the Student class and add 3 Mutator methods and 3 Accessor methods as given
+below to implement data hiding.
+b) For proper data hiding make attributes private.
+ getName(), getAddress() and getDit() that return Strings.
+ setName(), setAddress() and setDit() to provide values as mutator
+methods.
+c) Use those methods in the Test class.

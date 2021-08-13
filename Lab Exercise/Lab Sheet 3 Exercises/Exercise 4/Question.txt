@@ -1,0 +1,10 @@
+Exercise 4
+
+
+a) Modify the Student class and add a method called getDetails() which returns a String.
+b) This method will return the details of the student as below:
+I am a Student.
+My name is Udaya.
+I am from Malabe.
+My dit no is DIT/11/C1/0010
+c) Call getDetails() method in the Test class.

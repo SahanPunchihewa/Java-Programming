@@ -7,7 +7,7 @@ public class Main{ // Beginning of the Main Class
 
     public static void main(String[] args) { // Beginning of the method
 
-        System.out.println("Lamali Jeewanthi"); // Display Name  
+        System.out.println("Sahan Punchihewa"); // Display Name  
 
 
     } // End of the Method
